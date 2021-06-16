@@ -15,6 +15,10 @@ which you defeat enemies with a sword and a bow, while also having the ability
 to gain blocks to be placed. There are mobs that try to kill you in a variety of
 ways, by flying or by moving on platforms.
 
+LINK TO TRAILER:
+
+https://youtu.be/n4v6lKTkDmY
+
 TO RUN THE PROGRAM:
 
 Run the Python file TermProject.py. You will need have the 15-112 Graphics
